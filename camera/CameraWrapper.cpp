@@ -276,6 +276,7 @@ static char* remove_items(const char* s, char sep, const char* const* items, siz
 }
 
 static const char* invalid_sizes[] = {
+    "480x360",
     "800x480",
     "864x480",
 };
